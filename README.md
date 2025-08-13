@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Mateus!
+# 👋 Saudações, eu sou o Mateus!
 
 💻 Desenvolvedor focado em criar soluções web eficientes e escaláveis.  
 🎯 Apaixonado por tecnologia, automação e desenvolvimento de sistemas que realmente ajudam pessoas e negócios.  
-📍 Brasil | 📫 [LinkedIn](https://www.linkedin.com/in/mateusbelchior) | [E-mail](mailto:mateus.belchior.98@gmail.com)
+📍 Brasil - MG | 📫 [LinkedIn](https://www.linkedin.com/in/mateusbelchior) | [E-mail](mailto:mateus.belchior.98@gmail.com)
 
 ---
 
@@ -20,7 +20,6 @@
 |---------|-----------|-------------|
 | [Transmeet](https://github.com/mateusbalmeida/transmeet) | Plataforma para organização de encontros/eventos com controle de presença. | TypeScript, Node.js |
 | [API RPG](https://github.com/mateusbalmeida/api-rpg) | API para gerenciamento de fichas e personagens de RPG. | TypeScript, Express |
-| [Robot API Marvel](https://github.com/mateusbalmeida/robot-api-marvel) | Automação para consulta de informações de personagens da Marvel. | JavaScript, HTML |
 | [Automação de Testes Ruby](https://github.com/mateusbalmeida/automacao-teste-ruby) | Suite de testes automatizados para aplicações web. | Ruby, Capybara |
 
 ---
