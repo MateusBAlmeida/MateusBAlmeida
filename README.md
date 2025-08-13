@@ -21,6 +21,7 @@
 | [Transmeet](https://github.com/mateusbalmeida/transmeet) | Plataforma para organização de encontros/eventos com controle de presença. | TypeScript, Node.js |
 | [API RPG](https://github.com/mateusbalmeida/api-rpg) | API para gerenciamento de fichas e personagens de RPG. | TypeScript, Express |
 | [Automação de Testes Ruby](https://github.com/mateusbalmeida/automacao-teste-ruby) | Suite de testes automatizados para aplicações web. | Ruby, Capybara |
+| [Agendamento](https://github.com/mateusbalmeida/agendamento) | Solução para agendamento de recursos da organizaçãao. | JavaScript, React |
 
 ---
 
